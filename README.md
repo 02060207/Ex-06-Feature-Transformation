@@ -28,7 +28,7 @@ Print the transformed features
 Name:SIVAKUMAR A
 
 Reg No. 212220043004
-
+```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -87,7 +87,7 @@ sm.qqplot(df2.HighlyPositiveSkew,fit=True,line='45')
 
 plt.show()
 
-
+```
 ## OUTPUT :
 
 ![image](https://user-images.githubusercontent.com/119560261/232929125-9394a43e-a332-4ec3-ac01-c893ce7c944c.png)
